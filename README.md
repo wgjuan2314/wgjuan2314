@@ -1,9 +1,5 @@
 # 小卷
 
-产设研一体的 AI 产品人，关注 AI 产品从想法到落地的完整链路：需求判断、用户体验、模型能力边界、BadCase 诊断、上线检查，以及如何把这些判断交接给 Claude Code / Codex / Cursor 继续执行。
-
-我正在把 AI PM 的工作方法沉淀成一组开源工具、skills 和模板，让产品判断不只停留在 prompt，而是变成可复用、可检查、可交接的 workflow。
-
 ![Profile banner](./assets/banner-hero.svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/wgjuan2314?style=flat&label=Followers)
