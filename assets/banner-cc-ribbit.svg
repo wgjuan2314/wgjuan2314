@@ -1,0 +1,25 @@
+<svg width="1120" height="420" viewBox="0 0 1120 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1120" height="420" fill="#102018"/>
+  <rect x="52" y="48" width="1016" height="324" rx="24" fill="#F4F8EF"/>
+  <path d="M52 285C197 248 268 304 386 279C527 249 605 160 750 197C875 229 955 294 1068 238V372H52V285Z" fill="#DCECCF"/>
+  <text x="84" y="100" fill="#2F6F4E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="900" letter-spacing="2">CC-RIBBIT</text>
+  <text x="84" y="170" fill="#17231D" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="48" font-weight="900">Claude Code 做完了，它会叫你回来</text>
+  <text x="86" y="214" fill="#546558" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="20">等待确认、任务完成、切到别的窗口时，用声音和系统通知提醒你。</text>
+  <g transform="translate(86 262)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect width="138" height="42" rx="21" fill="#17231D"/>
+    <text x="23" y="27" fill="#FFFFFF" font-size="15" font-weight="800">focus-aware</text>
+    <rect x="154" width="156" height="42" rx="21" fill="#FFFFFF" stroke="#C9DABE"/>
+    <text x="176" y="27" fill="#2F513B" font-size="15" font-weight="800">macOS notify</text>
+    <rect x="326" width="142" height="42" rx="21" fill="#FFFFFF" stroke="#C9DABE"/>
+    <text x="348" y="27" fill="#2F513B" font-size="15" font-weight="800">custom sounds</text>
+  </g>
+  <g transform="translate(774 90)">
+    <rect width="220" height="208" rx="24" fill="#17231D"/>
+    <circle cx="78" cy="72" r="30" fill="#BFE88A"/>
+    <circle cx="142" cy="72" r="30" fill="#BFE88A"/>
+    <circle cx="78" cy="72" r="9" fill="#17231D"/>
+    <circle cx="142" cy="72" r="9" fill="#17231D"/>
+    <path d="M62 132C84 158 136 158 158 132" stroke="#BFE88A" stroke-width="10" stroke-linecap="round"/>
+    <rect x="42" y="168" width="136" height="14" rx="7" fill="#BFE88A" fill-opacity=".45"/>
+  </g>
+</svg>

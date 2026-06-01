@@ -1,0 +1,29 @@
+<svg width="1120" height="420" viewBox="0 0 1120 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1120" height="420" rx="0" fill="#0F1115"/>
+  <rect x="48" y="48" width="1024" height="324" rx="24" fill="#151922" stroke="#2A3140"/>
+  <path d="M48 294C180 244 276 319 393 270C496 227 530 125 661 141C799 158 833 284 1072 219V372H48V294Z" fill="#1E2735"/>
+  <circle cx="915" cy="126" r="74" fill="#BFE88A" fill-opacity=".12"/>
+  <circle cx="952" cy="155" r="38" fill="#6EA8FE" fill-opacity=".12"/>
+  <text x="86" y="104" fill="#9AA7B7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" letter-spacing="3">AI PRODUCT WORKFLOWS</text>
+  <text x="86" y="174" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="52" font-weight="900">小卷</text>
+  <text x="86" y="226" fill="#D9E2EC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="800">产设研一体的 AI 产品人</text>
+  <text x="86" y="268" fill="#AAB6C5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="20">把产品判断、用户体验和 AI 落地流程沉淀成可复用的开源工具。</text>
+  <g transform="translate(774 78)">
+    <rect width="246" height="236" rx="20" fill="#0F1115" stroke="#30394A"/>
+    <rect x="24" y="24" width="198" height="42" rx="10" fill="#202838"/>
+    <rect x="42" y="40" width="104" height="10" rx="5" fill="#BFE88A"/>
+    <rect x="24" y="84" width="92" height="92" rx="16" fill="#202838"/>
+    <rect x="130" y="84" width="92" height="92" rx="16" fill="#202838"/>
+    <rect x="43" y="109" width="54" height="9" rx="4.5" fill="#6EA8FE"/>
+    <rect x="43" y="131" width="38" height="9" rx="4.5" fill="#445269"/>
+    <path d="M158 139L176 109L195 139H158Z" fill="#BFE88A"/>
+    <rect x="24" y="194" width="198" height="18" rx="9" fill="#202838"/>
+    <rect x="42" y="199" width="82" height="8" rx="4" fill="#FFB86B"/>
+  </g>
+  <g fill="#AAB6C5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" font-weight="700">
+    <text x="86" y="330">AI PM Skills</text>
+    <text x="218" y="330">BadCase Triage</text>
+    <text x="382" y="330">Launch Checklist</text>
+    <text x="546" y="330">Agent Handoff</text>
+  </g>
+</svg>
