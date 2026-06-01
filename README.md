@@ -7,7 +7,7 @@
 ![Profile banner](./assets/banner-hero.svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/wgjuan2314?style=flat&label=Followers)
-![Public repos](https://img.shields.io/badge/Public%20Repos-7-2ea44f)
+![Public repos](https://img.shields.io/badge/Public%20Repos-8-2ea44f)
 ![Focus](https://img.shields.io/badge/Focus-AI%20PM%20Workflows-0f6fff)
 
 ---
