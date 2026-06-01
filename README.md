@@ -22,12 +22,6 @@
 
 ![AIPM Core Skills](./assets/banner-aipm-core.svg)
 
-### [Shipshape](https://github.com/wgjuan2314/shipshape) — AI coding agent 的交接检查器
-
-Claude Code、Codex、Cursor 说 done 之后，Shipshape 帮你快速看一眼本地工作区：改了哪些文件、有没有风险区域、项目里有哪些验证命令、下一步应该检查什么。它不替代测试和 review，而是把“我觉得做完了”变成一份更清楚的交接报告。
-
-![Shipshape](./assets/banner-shipshape.svg)
-
 ---
 
 ## AI PM 开源资源
