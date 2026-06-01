@@ -10,6 +10,12 @@
 
 ## 我在做的事
 
+### [cc-ribbit](https://github.com/wgjuan2314/cc-ribbit) — Claude Code 等待/完成提醒插件
+
+给 Claude Code 加一层轻量提醒：等待确认、任务完成、切到别的窗口时，用声音和系统通知把你叫回来。适合长任务、频繁上下文切换、以及不想一直盯着终端的人。
+
+![cc-ribbit](./assets/banner-cc-ribbit.svg)
+
 ### [AIPM Core Skills](https://github.com/wgjuan2314/aipm-core-skills) — 把 AI 产品经理的判断力变成可运行的本地 skills
 
 一套面向 AI 产品经理、AI 体验设计师和 AI Coding 实践者的 skill 项目。不是“大而全”的提示词库，而是把高频工作沉淀成 5 个可复用能力：AI 产品体验审查、AI PRD 审查、Agent 适用性判断、BadCase 诊断、AI Coding 任务交接。
@@ -21,12 +27,6 @@
 Claude Code、Codex、Cursor 说 done 之后，Shipshape 帮你快速看一眼本地工作区：改了哪些文件、有没有风险区域、项目里有哪些验证命令、下一步应该检查什么。它不替代测试和 review，而是把“我觉得做完了”变成一份更清楚的交接报告。
 
 ![Shipshape](./assets/banner-shipshape.svg)
-
-### [cc-ribbit](https://github.com/wgjuan2314/cc-ribbit) — Claude Code 等待/完成提醒插件
-
-给 Claude Code 加一层轻量提醒：等待确认、任务完成、切到别的窗口时，用声音和系统通知把你叫回来。适合长任务、频繁上下文切换、以及不想一直盯着终端的人。
-
-![cc-ribbit](./assets/banner-cc-ribbit.svg)
 
 ---
 
