@@ -2,7 +2,7 @@
   <rect width="1120" height="420" fill="#2A0E1A"/>
   <rect x="52" y="48" width="1016" height="324" rx="24" fill="#FFF0F6"/>
   <path d="M52 285C197 248 268 304 386 279C527 249 605 160 750 197C875 229 955 294 1068 238V372H52V285Z" fill="#FBD5E6"/>
-  <text x="84" y="100" fill="#C2185B" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="900" letter-spacing="2">INTENT-CAPSULE</text>
+  <text x="84" y="100" fill="#C2185B" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="900" letter-spacing="2">INTENT CAPSULE · CHROME 扩展程序</text>
   <text x="84" y="170" fill="#2A0E1A" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="48" font-weight="900">选你说的话，带去下一个 AI</text>
   <text x="86" y="214" fill="#8A5A6E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="20">在 AI 对话里逐条勾选你说过的话，一键打包带去另一个 AI 继续聊。</text>
   <g transform="translate(86 262)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
@@ -13,19 +13,35 @@
     <rect x="290" width="120" height="42" rx="21" fill="#FFFFFF" stroke="#F3C2D6"/>
     <text x="312" y="27" fill="#C2185B" font-size="15" font-weight="800">数据全本地</text>
   </g>
+  <!-- 右侧：浏览器窗口（表达 Chrome 扩展），窗内为逐条勾选消息条 -->
   <g transform="translate(774 90)">
     <rect width="220" height="208" rx="24" fill="#2A0E1A"/>
-    <g transform="translate(28 34)">
+    <!-- 工具栏 -->
+    <circle cx="26" cy="28" r="4.5" fill="#7A4456"/>
+    <circle cx="42" cy="28" r="4.5" fill="#7A4456"/>
+    <circle cx="58" cy="28" r="4.5" fill="#7A4456"/>
+    <rect x="76" y="18" width="86" height="20" rx="10" fill="#3A1626"/>
+    <!-- Chrome 四色 logo -->
+    <g transform="translate(189 28)">
+      <path d="M0 0 L11.26 -6.5 A13 13 0 0 1 0 13 Z" fill="#FBBC05"/>
+      <path d="M0 0 L0 13 A13 13 0 0 1 -11.26 -6.5 Z" fill="#34A853"/>
+      <path d="M0 0 L-11.26 -6.5 A13 13 0 0 1 11.26 -6.5 Z" fill="#EA4335"/>
+      <circle cx="0" cy="0" r="6.4" fill="#FFFFFF"/>
+      <circle cx="0" cy="0" r="5" fill="#4285F4"/>
+    </g>
+    <line x1="16" y1="52" x2="204" y2="52" stroke="#3A1626" stroke-width="2"/>
+    <!-- 窗内：逐条勾选消息条 -->
+    <g transform="translate(28 70)">
       <rect width="26" height="26" rx="7" fill="#EB4C89"/>
       <path d="M7 13L11.5 17.5L20 8.5" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
       <rect x="42" y="3" width="122" height="20" rx="10" fill="#EB4C89" fill-opacity=".85"/>
     </g>
-    <g transform="translate(28 90)">
+    <g transform="translate(28 116)">
       <rect width="26" height="26" rx="7" fill="#EB4C89"/>
       <path d="M7 13L11.5 17.5L20 8.5" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
       <rect x="42" y="3" width="94" height="20" rx="10" fill="#EB4C89" fill-opacity=".85"/>
     </g>
-    <g transform="translate(28 146)">
+    <g transform="translate(28 162)">
       <rect width="26" height="26" rx="7" fill="none" stroke="#7A4456" stroke-width="2.4"/>
       <rect x="42" y="3" width="110" height="20" rx="10" fill="#7A4456" fill-opacity=".5"/>
     </g>
