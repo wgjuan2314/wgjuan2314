@@ -3,7 +3,7 @@
 ![Profile banner](./assets/banner-hero.svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/wgjuan2314?style=flat&label=Followers)
-![Public repos](https://img.shields.io/badge/Public%20Repos-8-2ea44f)
+![Public repos](https://img.shields.io/badge/Public%20Repos-9-2ea44f)
 ![Focus](https://img.shields.io/badge/Focus-AI%20PM%20Workflows-0f6fff)
 
 ---
@@ -15,6 +15,12 @@
 给 Claude Code 加一层轻量提醒：等待确认、任务完成、切到别的窗口时，用声音和系统通知把你叫回来。适合长任务、频繁上下文切换、以及不想一直盯着终端的人。
 
 ![cc-ribbit](./assets/banner-cc-ribbit.svg)
+
+### [意图胶囊 Intent Capsule](https://github.com/wgjuan2314/intent-capsule) — 跨 AI 平台的对话上下文迁移
+
+在 AI 对话里逐条勾选你说过的话，一键打包带去另一个 AI 继续聊。别人是“铲子”整段搬走，它是“手术刀”——你选哪条带哪条，默认只摘你自己的问题。支持虚拟滚动平台全量收集、自动生成来源标注头、数据全本地。Chrome 扩展（MV3 + TypeScript）。
+
+![意图胶囊 Intent Capsule](./assets/banner-intent-capsule.svg)
 
 ### [AIPM Core Skills](https://github.com/wgjuan2314/aipm-core-skills) — 把 AI 产品经理的判断力变成可运行的本地 skills
 
