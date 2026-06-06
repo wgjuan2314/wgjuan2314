@@ -18,7 +18,9 @@
 
 ### [意图胶囊 Intent Capsule](https://github.com/wgjuan2314/intent-capsule) — 跨 AI 平台的对话上下文迁移
 
-在 AI 对话里逐条勾选你说过的话，一键打包带去另一个 AI 继续聊。别人是“铲子”整段搬走，它是“手术刀”——你选哪条带哪条，默认只摘你自己的问题。支持虚拟滚动平台全量收集、自动生成来源标注头、数据全本地。Chrome 扩展（MV3 + TypeScript）。
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/djefdoiobiefkcnohpjjjclemmbjkdob?label=Chrome%20Web%20Store&color=EB4C89)](https://chromewebstore.google.com/detail/%E6%84%8F%E5%9B%BE%E8%83%B6%E5%9B%8A-intent-capsule/djefdoiobiefkcnohpjjjclemmbjkdob)
+
+在 AI 对话里逐条勾选你说过的话，一键打包带去另一个 AI 继续聊。别人是”铲子”整段搬走，它是”手术刀”——你选哪条带哪条，默认只摘你自己的问题。支持虚拟滚动平台全量收集、自动生成来源标注头、数据全本地。Chrome 扩展（MV3 + TypeScript）。
 
 ![意图胶囊 Intent Capsule](./assets/banner-intent-capsule.svg)
 
